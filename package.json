@@ -1,0 +1,22 @@
+{
+  "name": "thriving-bot",
+  "version": "1.0.0",
+  "description": "Are you thriving or surviving?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fredluetkemeier/Thriving-Bot.git"
+  },
+  "author": "Fred Luetkemeier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fredluetkemeier/Thriving-Bot/issues"
+  },
+  "homepage": "https://github.com/fredluetkemeier/Thriving-Bot#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
